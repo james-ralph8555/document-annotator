@@ -1,8 +1,5 @@
 pdf2image==1.16.3
 Pillow==9.5.0
-PyQt6==6.5.1
-PyQt6-Qt6==6.5.1
-PyQt6-sip==13.5.1
 PySide6==6.5.1.1
 PySide6-Addons==6.5.1.1
 PySide6-Essentials==6.5.1.1
